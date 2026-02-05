@@ -1,3 +1,5 @@
+<!-- resources/views/products/edit.blade.php -->
+
 @extends('layout')
 
 @section('content')
